@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.red,
         onPressed: _incrementCounter,
         tooltip: 'Increment',
-        child: Icon(Icons.add, color: Colors.white),
+        child: Icon(Icons.add, color: Colors.grey),
       ),
     );
   }
